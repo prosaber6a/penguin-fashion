@@ -29,10 +29,6 @@ body {
 }
 
 
-.hero-section .carousel-item {
-    line-height: 26px;
-}
-
 .penguine-buy-btn {
     background-image: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
     border: none;
